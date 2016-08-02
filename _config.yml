@@ -12,7 +12,7 @@ url: "https://thatsk.github.io"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-baseurl: 
+baseurl: /thatsk.github.io 
 
 # Google tracking id to track your visitors
 
@@ -30,7 +30,7 @@ force-https: True
 
 lang: "en"
 author: "Thatsk"
-title: "System Administrator "
+title: "System Administrator"
 description: "Blog and website of Thatsk, blogging mainly for tech. Feel Free to Share"
 keywords: "thatsk, kunalsing, thakur, theme"
 favicon: "/img/favicon.ico"
@@ -55,8 +55,8 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "sudo rm -rf *"
-  - text: "Think About it???"
+  - text: "Proud To Be System Admin."
+  - text: "Feel free to ask???"
 
 me-img: "/img/profile.jpg"
 
@@ -110,11 +110,11 @@ syntax-highlight: True
 
 events:
   - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
+    date: "August 2016 - Today"
+    description: "Fun With technology"
   - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+    date: "August 2015 - August 2016"
+    description: "Started Learning"
 
 # First image of the Timeline
 
@@ -148,7 +148,7 @@ social:
     url: "https://twitter.com/kunalsingthakur"
   - title: "github"
     url: "https://github.com/thatsk"
-  - title: "bitcoin"
+  - title: "linkedin"
     url: "https://www.linkedin.com/in/kunalsing-thakur-0a73887b"
   - title: "rss"
     url: "/feed.xml"
