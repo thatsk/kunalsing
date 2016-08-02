@@ -30,7 +30,7 @@ force-https: True
 
 lang: "en"
 author: "Thatsk"
-title: "System Administrator Field"
+title: "System Administrator "
 description: "Blog and website of Thatsk, blogging mainly for tech. Feel Free to Share"
 keywords: "thatsk, kunalsing, thakur, theme"
 favicon: "/img/favicon.ico"
@@ -55,8 +55,8 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "Proud To Be System Admin."
-  - text: "Feel free to ask???"
+  - text: "sudo rm -rf *"
+  - text: "Think About it???"
 
 me-img: "/img/profile.jpg"
 
