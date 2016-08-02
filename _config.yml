@@ -30,7 +30,7 @@ force-https: True
 
 lang: "en"
 author: "Thatsk"
-title: "System Administrator Field"
+title: "System Administrator"
 description: "Blog and website of Thatsk, blogging mainly for tech. Feel Free to Share"
 keywords: "thatsk, kunalsing, thakur, theme"
 favicon: "/img/favicon.ico"
@@ -148,7 +148,7 @@ social:
     url: "https://twitter.com/kunalsingthakur"
   - title: "github"
     url: "https://github.com/thatsk"
-  - title: "bitcoin"
+  - title: "linkedin"
     url: "https://www.linkedin.com/in/kunalsing-thakur-0a73887b"
   - title: "rss"
     url: "/feed.xml"
