@@ -3,7 +3,7 @@
 
 # NB! Set your site's url, otherwise stuff will break :)
 
-url: "https://panossakkos.github.io"
+url: "https://thatsk.github.io"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (https://yourusername.github.io/repository-name)
@@ -12,9 +12,9 @@ url: "https://panossakkos.github.io"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-baseurl: /personal-jekyll-theme
+baseurl: /kunalsing
 
-# Google tracking id
+# Google tracking id to track your visitors
 
 google-tracking-id: ""
 
@@ -29,10 +29,10 @@ force-https: True
 #############
 
 lang: "en"
-author: "John Smith"
-title: "{ John Smith }"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
+author: "Thatsk"
+title: "System Administrator Field"
+description: "Blog and website of Thatsk, blogging mainly for tech. Feel Free to Share"
+keywords: "thatsk, kunalsing, thakur, theme"
 favicon: "/img/favicon.ico"
 
 ################
@@ -55,8 +55,8 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "Proud To Be System Admin."
+  - text: "Feel free to ask???"
 
 me-img: "/img/jetpacktocat.png"
 
@@ -84,8 +84,6 @@ icon-192p: "/img/web-app/icon-192p.png"
 ########
 # Blog #
 ########
-
-enable-gesture-navigation: True
 
 post-preview-words: 96
 
@@ -126,7 +124,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "your@email.here"
+email: "kunalsingthakur@gmail.com"
 
 ################
 # Author Blurb #
@@ -136,7 +134,7 @@ email: "your@email.here"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
+author_blurb: "Kunalsing Thakur is an awesome person. He lives in Pune (Maharashtra), where he works system admin department in BenchmarkITsolutions.Pvt.Ltd. In his spare time, Thatsk like to meetup new people for Sharing new knowledge."
 author_blurb_image: "/img/author.png"
 
 ##################
@@ -145,13 +143,13 @@ author_blurb_image: "/img/author.png"
 
 social:
   - title: "facebook"
-    url: "https://facebook.com/"
+    url: "https://facebook.com/kunalsing452"
   - title: "twitter"
-    url: "https://twitter.com/"
+    url: "https://twitter.com/kunalsingthakur"
   - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
+    url: "https://github.com/thatsk"
   - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
+    url: "https://www.linkedin.com/in/kunalsing-thakur-0a73887b"
   - title: "rss"
     url: "/feed.xml"
 
@@ -160,14 +158,6 @@ social:
 ############
 
 404-img: "/img/labtocat.png"
-
-##################
-# GPG on Keybase #
-##################
-
-keybase-username: johnsmith
-keybase-in-social: True
-keybase-in-footer: True
 
 ################################################################################
 
