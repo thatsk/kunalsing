@@ -109,7 +109,7 @@ syntax-highlight: True
 ############
 
 events:
-    - image: "/img/periodic.jpg"
+  - image: "/img/periodic.jpg"
     date: "August 2016 - Today"
     description: "Collaboration With New Open Source Techonology"
   - image: "/img/benchmark.jpg"
