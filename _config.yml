@@ -58,7 +58,7 @@ lines: # You can add HTML Tags in the Text
   - text: "rm -rf /"
   - text: "Just Think about it???"
 
-me-img: "/img/profile.jpg"
+me-img: "/img/me.jpg"
 
 ##############################
 # Color the browser elements #
@@ -109,12 +109,15 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
+    - image: "/img/timeline/periodic.jpg"
     date: "August 2016 - Today"
-    description: "Fun With technology"
-  - image: "/img/timeline/baracktocat.jpg"
-    date: "August 2015 - August 2016"
-    description: "Started Learning"
+    description: "Collaboration With New Open Source Techonology"
+  - image: "/img/timeline/benchmark.jpg"
+    date: "August 2016 - Today"
+    description: "Working With BenchmarkItsolutions.Pvt.Ltd"
+  - image: "/img/timeline/graduate.jpg"
+    date: "August 2015"
+    description: "Graduated From TKIET, Waranangar"
 
 # First image of the Timeline
 
