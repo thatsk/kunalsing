@@ -445,3 +445,7 @@ body {
 .fourofour {
   border: 1px solid $primary-color !important;
 }
+@media (min-width: 768px){
+.navbar-custom.top-nav-collapse {
+     background-color: rgba(0, 0, 0, 0.5) !important;
+}}
