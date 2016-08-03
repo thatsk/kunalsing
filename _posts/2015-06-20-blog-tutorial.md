@@ -3,7 +3,9 @@ layout: post
 section-type: post
 title: Setting up the Blog
 category: tech
-tags: [ 'tutorial' ]
+tags:
+  - tutorial
+published: true
 ---
 
 A website is truly personal if it hosts your blog as well, this place of the internet
@@ -52,7 +54,7 @@ vkontakte-share: True
 You can enable <a href="http://www.disqus.com" target="\_blank">Disqus</a> comments by just setting your Disqus username here:
 
 <pre><code data-trim class="yaml">
-disqus-shortname: "Your Disqus username"
+disqus-shortname: "thatsk"
 </code></pre>
 
 ### RSS feed
