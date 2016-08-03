@@ -449,3 +449,22 @@ body {
 .navbar-custom.top-nav-collapse {
      background-color: rgba(0, 0, 0, 0.5) !important;
 }}
+@media (min-width: 1200px){
+.timeline>li .timeline-image {
+    width: 170px;
+    height: 170px;
+    margin-left: -85px !important;
+    margin: 0;
+    padding: 0;
+}}
+
+.content-section img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0;
+    border: 1px solid #fff;
+    width: 170px;
+    height: 170px;
+}
+
