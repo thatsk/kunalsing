@@ -58,7 +58,7 @@ lines: # You can add HTML Tags in the Text
   - text: "Proud To Be System Admin."
   - text: "Feel free to ask???"
 
-me-img: "/img/profile.jpg"
+me-img: "/img/me.jpg"
 
 ##############################
 # Color the browser elements #
