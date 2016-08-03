@@ -109,13 +109,13 @@ syntax-highlight: True
 ############
 
 events:
-    - image: "/img/timeline/periodic.jpg"
+    - image: "/img/periodic.jpg"
     date: "August 2016 - Today"
     description: "Collaboration With New Open Source Techonology"
-  - image: "/img/timeline/benchmark.jpg"
+  - image: "/img/benchmark.jpg"
     date: "August 2016 - Today"
     description: "Working With BenchmarkItsolutions.Pvt.Ltd"
-  - image: "/img/timeline/graduate.jpg"
+  - image: "/img/graduate.jpg"
     date: "August 2015"
     description: "Graduated From TKIET, Waranangar"
 
