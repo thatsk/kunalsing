@@ -1,18 +1,18 @@
 
 # Site settings
 
-url: "https://panossakkos.github.io"
+url: "https://thatsk.github.io"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (https://yourusername.github.io/repository-name)
 # and NOT your user repository (https://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
 
-baseurl: /personal-jekyll-theme
+baseurl: /thatsk.github.io
 
 # Google tracking id to track your visitors
 
-google-tracking-id: "UA-35880426-4"
+google-tracking-id: ""
 
 # Forces https everywhere in your website, except when you serve it locally
 # If you are not hosted on Github Pages, and your host doesn't support https
@@ -32,13 +32,12 @@ pages_list:
 # HTML Head #
 #############
 
-author: "John Smith"
 lang: "en"
-title: "{ John Smith }"
+author: "Thatsk"
+title: "System Administrator"
+description: "Blog and website of Thatsk, blogging mainly for tech. Feel Free to Share"
+keywords: "thatsk, kunalsing, thakur, theme"
 favicon: "/img/favicon.ico"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
-
 ##########
 # Header #
 ##########
@@ -50,7 +49,7 @@ background-type: "3d-lines" # It can be either image, 3d-lines or color-gradient
 
 # Options for image configuration
 
-background-img: "../img/intro-bg.jpg"
+background-img: "../img/certificate.jpg"
 
 # The following configurations are common for both color-gradient and 3d-lines options
 
@@ -81,9 +80,9 @@ type-speed: 4
 start-delay: 2000
 delete-delay: 50000
 lines: # You can add HTML tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
-
+  - text: "rm -rf /"
+  - text: "Just Think about it???"
+me-img: "/img/profile.jpg"
 ########
 # Blog #
 ########
@@ -106,12 +105,12 @@ disqus-shortname: "panossakkos"
 ############
 
 events:
-  - image: "/img/career/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
-  - image: "/img/career/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+  - image: "/img/timeline/spidertocat.png"
+    date: "August 2016 - Today"
+    description: "Fun With technology"
+  - image: "/img/timeline/baracktocat.jpg"
+    date: "August 2015 - August 2016"
+    description: "Started Learning"
 
 # First image of the Career timeline
 
@@ -121,7 +120,8 @@ career-img: "/img/career/default.png"
 # Contact #
 ###########
 
-email: "your@email.here"
+email: "kunalsingthakur@gmail.com"
+
 
 ##################
 # Social Buttons #
@@ -129,16 +129,15 @@ email: "your@email.here"
 
 social:
   - title: "facebook"
-    url: "https://facebook.com/"
+    url: "https://facebook.com/kunalsing452"
   - title: "twitter"
-    url: "https://twitter.com/"
+    url: "https://twitter.com/kunalsingthakur"
   - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
-  - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
+    url: "https://github.com/thatsk"
+  - title: "linkedin"
+    url: "https://www.linkedin.com/in/kunalsing-thakur-0a73887b"
   - title: "rss"
     url: "/feed.xml"
-
 ############
 # 404 page #
 ############
