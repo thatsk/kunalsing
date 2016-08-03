@@ -110,18 +110,18 @@ syntax-highlight: True
 
 events:
   - image: "/img/periodic.jpg"
-    date: "August 2016 - Today"
+    date: "Today"
     description: "Collaboration With New Open Source Techonology"
   - image: "/img/benchmark.jpg"
-    date: "August 2016 - Today"
+    date: "August 2015-2016 "
     description: "Working With BenchmarkItsolutions.Pvt.Ltd"
   - image: "/img/graduate.jpg"
-    date: "August 2015"
+    date: "Jul 2015"
     description: "Graduated From TKIET, Waranangar"
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/default.png"
+timeline-img: "/img/timeline/me.jpg"
 
 ###########
 # Contact #
