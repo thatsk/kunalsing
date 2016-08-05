@@ -21,4 +21,4 @@ email: "your@email.here"
 
 Don't be afraid of email harvesting, write your email properly and the page will perform javascript obfuscation.
 
-<small>Many thanks to <a href="https://github.com/joariasl" target="\_blank">@joariasl</a> for this feature!</small>
+<small>Many thanks to <a href="https://github.com/thatsk" target="\_blank">@thatsk</a> for this feature!</small>
