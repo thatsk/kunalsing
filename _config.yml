@@ -109,8 +109,10 @@ syntax-highlight: True
 ############
 
 events:
+  - date: "Today"
+    description: "Working With Mobitv"
   - image: "/img/periodic.jpg"
-    date: "Today"
+    date: "August 2016-2017"
     description: "Collaboration With New Open Source Techonology"
   - image: "/img/benchmark.jpg"
     date: "August 2015-2016 "
